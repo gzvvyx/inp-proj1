@@ -18,7 +18,7 @@ Processor able to execute version of the Brainfuck language
 |    ,    |   0x2X   | load value to cell      | *ptr = getchar() |
 |   null  |   0x00   | end program             | return           |
 
-## Evaluation 22/23
+## Evaluation
 
 **login.b**: 3b počet instrukcí: 89, tj. o 34 více než nejkompaktnější odevzdané řešení <br>
 **login.png**: 3b <br>
